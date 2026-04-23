@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; padding: 20px; line-height: 1.6; }
+section { border: 1px solid #ccc; padding: 20px; margin-bottom: 20px; border-radius: 8px; }
+.item { border: 1px solid #ddd; padding: 10px; display: inline-block; }
+button { cursor: pointer; background: #2ecc71; color: white; border: none; padding: 8px 12px; border-radius: 4px; }
+button:hover { background: #27ae60; }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; }
